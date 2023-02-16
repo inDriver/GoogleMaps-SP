@@ -42,27 +42,27 @@ let package = Package(
         .binaryTarget(
             name: "GoogleMaps",
             url: "https://github.com/inDriver/GoogleMaps-SP/releases/download/7.3.0/GoogleMaps.xcframework.zip",
-            checksum: "f7cace58f70a30518266701bd5089c0eb0aab1c5e2e9d2b524374845b8f3c863"
+            checksum: "87f45e509ea35d58f7465f883eaf4749d39c78386cd69f1d9f9d6e81da254ca9"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
             url: "https://github.com/inDriver/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsBase.xcframework.zip",
-            checksum: "64fbd1382bcfad878ee9b42d525ddbafc34f127b8baffaae70c9705fab57f3dd"
+            checksum: "933151618e9c61b300895f649e6052bf00fe324befe0ba5f4351852f35485010"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
             url: "https://github.com/inDriver/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsCore.xcframework.zip",
-            checksum: "85cb71d1fe08b93861a611898f958cc0204f7e0ae6fc958e05e7b4249dd82de0"
+            checksum: "81f76fe990092808c3f7b0915bf04d2a2fc9b1677d08938dc7472525eff2bbc6"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
             url: "https://github.com/inDriver/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "6ea5932fa2897481cb17e86b770e7ab95df5bf2b5cf3c9031569fbed22e03987"
+            checksum: "22af48953f480b030e068f6ba3275a674acb4f9ebceb84a5165c2445d5bf454e"
         ),
         .binaryTarget(
             name: "GooglePlaces",
             url: "https://github.com/inDriver/GoogleMaps-SP/releases/download/7.3.0/GooglePlaces.xcframework.zip",
-            checksum: "cb178a734999b5fdbb3712bfa6e242eda621bbc1070117f0cec7a77e5e18ea72"
+            checksum: "3026c0a4bc933c26a962ff8f07b87d86d84525dda87c6276cbb0edde75109b10"
         )
     ]
 )
